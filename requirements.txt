@@ -1,0 +1,9 @@
+polars>=1.0
+duckdb>=1.1
+pandas
+pyarrow
+numpy
+requests
+matplotlib
+seaborn
+jupyter
